@@ -16,3 +16,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 2. have the repo already cloned to your machine
 3. run "docker -v" and "docker-compose -v" in the terminal to ensure docker works properly
 4. run "docker-compose up" to run docker on the whole folder
+5. make sure everything works by going to localhost: 3000 and localhost:3001
